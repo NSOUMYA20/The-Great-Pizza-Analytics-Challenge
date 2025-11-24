@@ -26,8 +26,7 @@ README.md         → Project summary & documentation
 
 🔍 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
  1. 4 pizza categories identified — Classic, Veggie, Supreme, Chicken.
-    <br>
- 3. 49,574 pizzas sold in 2015 — strong demand.
+ 2. 49,574 pizzas sold in 2015 — strong demand.
  4. Classic became the top-selling category (14,888 units).
  5. Every category exceeded 5,000+ sales, indicating a balanced menu.
  6. Average pizza price: $16.44 (mid-level pricing strategy).
@@ -36,10 +35,10 @@ README.md         → Project summary & documentation
  9. Price differences ranged from $2.75 to $23.95, with The Greek showing the highest jump.
 
 💡 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
- 🔸 Remove or redesign the pizzas with zero orders to improve menu efficiency.
- 🔸 Boost high-sellers like Classic & Supreme with combo deals.
- 🔸 Introduce evening-based promotions to target the peak order window.
- 🔸 Review pricing for premium items (e.g., Greek XXL) to increase affordability.
- 🔸 Strengthen medium-size pizza offerings, as they lead customer preference. 
+ 1. Remove or redesign the pizzas with zero orders to improve menu efficiency.
+ 2. Boost high-sellers like Classic & Supreme with combo deals.
+ 3. Introduce evening-based promotions to target the peak order window.
+ 4. Review pricing for premium items (e.g., Greek XXL) to increase affordability.
+ 5. Strengthen medium-size pizza offerings, as they lead customer preference. 
 
 
