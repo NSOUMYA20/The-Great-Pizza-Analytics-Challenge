@@ -18,9 +18,12 @@ This project is part of the IDC 21 Days SQL Challenge by Indian Data Club & DPD 
 🔗 https://indiandataclubsql.notion.site/The-Great-Pizza-Analytics-Challenge-296b804566108124a928f767a2951381
 
 ## 📂 Project Structure
-Dataset/            → Raw dataset (CSV files)
-SQL_Queries/        → SQL queries for all tasks
-Presentation_pdf/   → Final presentation PDF
+Dataset             → Raw dataset (CSV files)
+<br>
+SQL_Queries         → SQL queries for all three phases
+<br>
+Presentation_pdf    → Final presentation PDF
+<br>
 README.md           → Project summary & documentation
 
 ## 🔍 Key Insights
