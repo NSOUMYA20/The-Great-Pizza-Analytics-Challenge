@@ -16,20 +16,24 @@ Analyze raw pizza sales data using SQL and uncover insights to support data-driv
 https://indiandataclubsql.notion.site/The-Great-Pizza-Analytics-Challenge-296b804566108124a928f767a2951381
 
 📂 Project Structure
-Dataset/           → Raw dataset (CSV files)
-SQL_Queries/       → SQL queries for all tasks
-Presentation_pdf/  → Final presentation PDF
-README.md/         → Project summary & documentation
+Dataset           → Raw dataset (CSV files)
+<br>
+SQL_Queries       → SQL queries for all tasks
+<br>
+Presentation_pdf  → Final presentation PDF
+<br>
+README.md         → Project summary & documentation
 
 🔍 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
- ✔️ 4 pizza categories identified — Classic, Veggie, Supreme, Chicken.
- ✔️ 49,574 pizzas sold in 2015 — strong demand.
- ✔️ Classic became the top-selling category (14,888 units).
- ✔️ Every category exceeded 5,000+ sales, indicating a balanced menu.
- ✔️ Average pizza price: $16.44 (mid-level pricing strategy).
- ✔️ High activity after 8 PM, showing a strong evening rush.
- ✔️ 5 pizzas had zero orders — mainly Big Meat & Cheese items.
- ✔️ Price differences ranged from $2.75 to $23.95, with The Greek showing the highest jump.
+ 1. 4 pizza categories identified — Classic, Veggie, Supreme, Chicken.
+    <br>
+ 3. 49,574 pizzas sold in 2015 — strong demand.
+ 4. Classic became the top-selling category (14,888 units).
+ 5. Every category exceeded 5,000+ sales, indicating a balanced menu.
+ 6. Average pizza price: $16.44 (mid-level pricing strategy).
+ 7. High activity after 8 PM, showing a strong evening rush.
+ 8. 5 pizzas had zero orders — mainly Big Meat & Cheese items.
+ 9. Price differences ranged from $2.75 to $23.95, with The Greek showing the highest jump.
 
 💡 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
  🔸 Remove or redesign the pizzas with zero orders to improve menu efficiency.
